@@ -9,6 +9,7 @@ body         {
         font-size: 14pt;
         line-height: 16pt;
         color: #000000;
+	text-shadow: 4px 4px 4px #0099bb;
 }
 .cs5{
         font-size: 12pt;
@@ -29,6 +30,7 @@ body         {
         font-size: 10pt;
         line-height: 12pt;
         color: #333333;
+	
 }
 .cs2{
         font-size: 9pt;
